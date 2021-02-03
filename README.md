@@ -2,7 +2,7 @@
 
 UI/UX, Graphic, Editoral, Brand design.
 
-Make small:ok_hand:, be slow, don't stop:point_right:.
+Make small:ok_hand:, be slow:turtle:, don't stop:point_right:.
 
 ***
 
